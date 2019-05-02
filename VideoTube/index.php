@@ -28,7 +28,18 @@
 	<div id = "pageContainer">
 		
 		<div id = "mastHeadContainer">
-			<button class="navShowHide">Click me !</button>
+			<button class="navShowHide">
+			
+			<img src="assets/images/Icons/
+			icons8-menu-filled-30.png">
+
+			</button>
+			<a class="logoContainer" href="index.php">
+				<img src="assets/images/Logo/VideoTubeLogo.png"
+				title="Copyright all right reserved " alt="Site logo">
+			</a>
+		
+
 		</div>
 		
 		<div id = "sideNavContainer" style="display:none;">
@@ -38,7 +49,8 @@
 		<div id = "mainSectionContainer">
 			
 			<div id="mainContentContainer">
-				<h6>Sample Content Writing</h6>
+				<h6>Sample Testing Text </h6>
+				<img src="assets/images/Logo/idk.png">
 			</div>
 		</div>
 	</div>
